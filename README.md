@@ -36,7 +36,7 @@ A simple messaging Application that leaves out complex features that these moder
 </p>
 
 <p align="left">
-<img src="https://user-images.githubusercontent.com/75922639/123986423-e81dc200-d9e3-11eb-8c5e-e98223e2333a.png" width="300" height="400"> <img src="https://user-images.githubusercontent.com/75922639/123986794-40ed5a80-d9e4-11eb-9333-39dce757c5d2.png" width="300" height="400">
+<img src="https://user-images.githubusercontent.com/75922639/123986794-40ed5a80-d9e4-11eb-9333-39dce757c5d2.png" width="300" height="400"> <img src="https://user-images.githubusercontent.com/75922639/123986423-e81dc200-d9e3-11eb-8c5e-e98223e2333a.png" width="300" height="400">
 </p>
 
 <p align="left">
