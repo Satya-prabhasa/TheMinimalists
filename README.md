@@ -18,5 +18,3 @@ A simple messaging Application that leaves out complex features that these moder
 - File transfer.
 
 ### For better experience, GUI is added.
-
-### For tracking our progress and for further Info please visit projects tab [here](https://github.com/TheMinimalists/TheMinimalists/projects/1).
